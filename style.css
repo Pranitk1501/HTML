@@ -1,0 +1,16 @@
+
+.heading{
+    color: darkgreen;
+}
+.subtitle{
+    color: darkviolet;
+}
+#testitem{
+    color: greenyellow;
+}
+h2{
+    color: darkorange;
+}
+h2:hover{
+    color: deeppink;
+}
